@@ -22,6 +22,6 @@ Double clicking on the index.html file in the snake folder should also open the 
 Given the suggested time, I did not implement all of the features I would have considered adding to the game. Below I have listed a few next steps that would be completed without the current constraints:
 
 - Leaderboard: The ability for users to save their personal high scores and work to beat other users' high scores as well.
-- Speed: The ability for users to choose how fast the snake moves (basically setting a smaller interval between calls to the run method).
+- Speed: The ability for users to choose how fast the snake moves (basically setting a different interval between calls to the run method).
 - A more detailed UI/Design: Visually the game could be enhanced with javascript graphic libraries, nicer font styles, and a larger color palette. Design could also be more responsive to various window/browser sizes, but some responsiveness is embedded in the code currently.
 - Splash page: an initial landing page to brief users on the game and allow them to select the speed.
