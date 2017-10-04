@@ -4,6 +4,7 @@ This is a javascript implementation of the classic arcade game Snake. The user c
 
 ## How to run locally
 **To run via terminal:**
+
 First, navigate to where the snake directory is located and then cd into the snake directory.
 ```
   cd snake
@@ -13,6 +14,7 @@ Then open the index.html file.
   open index.html
 ```
 **Alternatively:**
+
 Double clicking on the index.html file in the snake folder should also open the game in your browser.
 
 ## Future Features
